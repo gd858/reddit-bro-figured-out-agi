@@ -1,9 +1,13 @@
 i READ reddit post [here](https://www.reddit.com/r/LocalLLaMA/comments/1glezjy/i_think_i_figured_out_how_to_build_agi_want_to/) and wanted to see what the author was claiming and if they were right. They had a pretty catchy title... 
 
+
+![img](context.png)
+
 *"I think i figured out how to build AGI. Want to get some feedback."*
 * bold claim, wanted to give the author feedback
 
 I downloaded the reddit thread using this web page [here](https://farnots.github.io/RedditToMarkdown/) and that is the reddit-thread.md file in this repo. 
+
 
 I gave GPT 4-o the reddit thread file and asked simple questions to begin the process... 
 
